@@ -20,6 +20,10 @@ header{
     width: 50%;
 }
 
+#logo img{
+    width: 100% !important;
+}
+
 nav ul{
     padding: 0; margin: 0;
     display: flex;
